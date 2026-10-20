@@ -1,0 +1,19 @@
+Hey {{ $('Check Duplicate & Assign Code').item.json.firstName }}, you're officially a Quantum Gadget Hub Partner!
+
+We're glad to have you promoting our smartphones, laptops and accessories on your WhatsApp status. Here's your personal coupon code and order link - they're live right now.
+
+YOUR COUPON CODE: {{ $('Check Duplicate & Assign Code').item.json.couponCode }}
+
+YOUR ORDER LINK (share this with your code on every post):
+{{ $('Check Duplicate & Assign Code').item.json.orderLink }}
+
+Every customer who orders with your code gets free delivery - a nice reason for your followers to buy through you instead of anywhere else.
+
+Your full partnership terms - posting schedule, commission tiers, payout days and everything else - are here:
+https://claude.ai/artifact/DdKJjhUL2gUXG3gmg8zd1S
+
+We'll send a short follow-up shortly with your next steps. Welcome to the team!
+
+-- The Quantum Gadget Hub Team
+
+Quantum Gadget Hub | Business Name Reg. No. 8640477 | Lagos, Nigeria

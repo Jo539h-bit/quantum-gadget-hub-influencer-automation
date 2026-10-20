@@ -1,0 +1,10 @@
+New Quantum Gadget Hub influencer partner signup
+
+Name: {{ $('Check Duplicate & Assign Code').item.json.name }}
+Phone: {{ $('Check Duplicate & Assign Code').item.json.phone }}
+Email: {{ $('Check Duplicate & Assign Code').item.json.email }}
+Coupon code: {{ $('Check Duplicate & Assign Code').item.json.couponCode }}
+Order link: {{ $('Check Duplicate & Assign Code').item.json.orderLink }}
+Submitted: {{ $('Check Duplicate & Assign Code').item.json.timestamp }}
+
+This code is already active and the influencer's welcome email has been sent.

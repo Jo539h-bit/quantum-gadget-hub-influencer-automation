@@ -1,0 +1,19 @@
+Quick reminder, {{ $('Check Duplicate & Assign Code').item.json.firstName }} - here's what to do now
+
+1. POST 2-3 TIMES A WEEK
+Share our product photos/videos on your WhatsApp status with your code {{ $('Check Duplicate & Assign Code').item.json.couponCode }} and your order link visible in every post.
+
+2. SEND PROOF THE SAME DAY
+After each post, send a screenshot to the partner group or our WhatsApp so it counts.
+
+3. KNOW YOUR REWARDS
+20% commission on your first 1-5 sales a month, 25% from 6-15, and 30% from 16+. Free delivery for every customer who uses your code. Paid every Friday. Top seller each month gets an extra NGN 5,000, and 30+ sales makes you a Quantum Ambassador.
+
+Full details - eligibility, payout terms and conduct rules - are always here:
+https://claude.ai/artifact/DdKJjhUL2gUXG3gmg8zd1S
+
+Questions any time - just reply here or message us on WhatsApp.
+
+-- The Quantum Gadget Hub Team
+
+Quantum Gadget Hub | Business Name Reg. No. 8640477 | Lagos, Nigeria
